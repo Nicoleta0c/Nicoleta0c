@@ -21,7 +21,7 @@ const nicoleta = {
 }
 ```
 
-<h2>Apuntes de Nicolle</h2>
+<h2>Apuntes de Nicolle <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"> </h2>
   <ul>
   <li>
     <a href=https://solar-tendency-e65.notion.site/UX-UI-a773004b24c64c5db1d41d1fcc8cadb2?pvs=4 target="_blank" rel="noreferrer nofollow">UX/UI</a>
