@@ -21,6 +21,25 @@ const nicoleta = {
 }
 ```
 
+<h2>Apuntes de Nicolle</h2>
+  <ul>
+  <li>
+    <a href=https://solar-tendency-e65.notion.site/UX-UI-a773004b24c64c5db1d41d1fcc8cadb2?pvs=4 target="_blank" rel="noreferrer nofollow">UX/UI</a>
+  </li>
+  <li>
+    <a href=https://solar-tendency-e65.notion.site/Fundamento-TS-bcf22c7360324925ae8e9a66af5a5e98?pvs=4 target="_blank" rel="noreferrer nofollow">Typescript</a>
+  </li>
+  <li>
+    <a href=https://solar-tendency-e65.notion.site/Resoluci-n-de-problemas-c0507cd2e1ea461bafedca94210bbe8e?pvs=4 target="_blank" rel="noreferrer nofollow">Resolución de problemas</a>
+  </li>
+  <li>
+    <a href=https://solar-tendency-e65.notion.site/Productividad-da778f5da0844e4c80beda339a3fd341?pvs=4 target="_blank" rel="noreferrer nofollow">Productividad</a>
+  </li>
+  <li>
+    <a href=https://solar-tendency-e65.notion.site/SCRUM-4138d5e818d14338a2473b38ec3671cc?pvs=4 target="_blank" rel="noreferrer nofollow">Scrum</a>
+  </li>
+  </ul>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectarme con diferentes personas</b> así que si quieres saludarme, ¡estaré encantada de conocerte más!</b> :)</em>
 
 ---
