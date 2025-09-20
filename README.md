@@ -16,8 +16,6 @@ const nicoleta = {
   tools: ["Tailwind CSS", "React", "Angular", "Node.js", "Docker", "Git", "SQL"],
   architecture: ["microservices", "design pattern"],
   interests: ["frontend development", "backend development"],
-
- challenge: "Estoy haciendo #100DaysOfCode enfocado en c#"
 }
 ```
 
